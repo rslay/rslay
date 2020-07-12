@@ -6,7 +6,6 @@
 
 - [Rezzy](https://github.com/rslay/rezzy): Modern (unfinished) resume builder written in React
 - [SeaShell](https://github.com/rslay/seashell): Remote shell handler for connections over plain TCP/IP
-- [c_in_browser](https://github.com/rslay/c_in_browser): Run C code in a Linux VM, all in your browser! Based on v86
 - ConceptMap (private)
 
 
