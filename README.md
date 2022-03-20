@@ -1,4 +1,4 @@
-### Ongoing (as of February 2022)
+### Ongoing (as of March 2022)
 
 - [ZeroChat](https://github.com/rslay/zerochat): Live web chat that uses no javascript, cookies, accounts, or tracking of any kind
 - Athos (private project)
